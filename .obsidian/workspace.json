@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c903f8d2cb81792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 1/Lecture.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 1/Lecture.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 1/Lecture.md"
+                "file": "README.md"
               }
             }
           },
@@ -154,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7281bde49cb69036",
+  "active": "1c903f8d2cb81792",
   "lastOpenFiles": [
-    "Pasted image 20230118195424.png.md",
     "Lecture 1/Lecture.md",
+    "Pasted image 20230118195424.png.md",
     "Lecture 1/images/extending_language.png",
     "Lecture 1/images/extension.png",
     "Test/Hello World.md",

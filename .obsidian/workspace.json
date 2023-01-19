@@ -128,13 +128,21 @@
                 "file": "Lecture 1/Lecture.md"
               }
             }
+          },
+          {
+            "id": "418b5701a25925c2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +156,12 @@
   },
   "active": "7281bde49cb69036",
   "lastOpenFiles": [
-    "Pasted image 20230118144426.png.md",
+    "Pasted image 20230118195424.png.md",
     "Lecture 1/Lecture.md",
+    "Lecture 1/images/extending_language.png",
+    "Lecture 1/images/extension.png",
+    "Test/Hello World.md",
+    "Pasted image 20230118144426.png.md",
     "Lecture 1/images/summary.png",
     "Lecture 1/images/M1_jflap.png",
     "Lecture 1/images/delta_star.png",

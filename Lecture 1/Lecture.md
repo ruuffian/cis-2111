@@ -49,6 +49,3 @@ In our original example $M_1$, we can create $M_2$ s.t. it is exactly the same, 
 This $M_2$ will accept the same language as $M_1$ as well as accept the string 2. So, it is an extended language rather than an entirely new one.
 
 The above images were generated using JFLAP, openable as a `.jff` [here](obsidian://open?vault=CIS%202111&file=Lecture%201%2FM1.jff).
-
-
-Will this auto post to git? Let's find out!

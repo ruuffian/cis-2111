@@ -1,4 +1,4 @@
-January 20th, 2023
+![[Pasted image 20230120144952.png]]January 20th, 2023
 
 Say we have two languages $\sum$ and $\sum'$.
 $$

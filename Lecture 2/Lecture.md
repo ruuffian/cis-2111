@@ -22,3 +22,5 @@ $M_2 = (\{q_1, q_2\}, \{0,1\}, \delta, q_1, \{q_2\})$
 where $\delta$ is the transition function - 
 ![transition function](images/delta.png)
 
+ Let's check some codes to see if they belong in the language of $M_2$:
+ 

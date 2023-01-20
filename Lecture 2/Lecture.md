@@ -26,4 +26,4 @@ where $\delta$ is the transition function -
 1101 - $q_0 \rightarrow q_1 \rightarrow q_1 \rightarrow q_0 \rightarrow q_1 \therefore$ $q_1$ is a terminal/accepting state, so 1101 is accepted.
 110 - $q_0 \rightarrow q_1 \rightarrow q_1 \rightarrow q_0 \therefore$ $q_2$ is not a terminal state, so 110 is NOT accepted.
 
-The language of $M_2$: $(0* 1* 0+ 1}
+The language of $M_2$: $(0* 1* {0* 1+}}

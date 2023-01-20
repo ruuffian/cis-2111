@@ -6,4 +6,7 @@ $$
 \sum' = \{0,1,2,ww\}
 $$
 We want to combine two automota, $M$ and $M'$. To do so, we need to extend the languages of our two automotan to accept each other.
-![[extended.png]]
+
+![Extended Automota](images/extended.png)
+
+ This is an example of an automotan that has been combined with the automotan from last class.

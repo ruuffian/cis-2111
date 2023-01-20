@@ -11,9 +11,11 @@
             "id": "aff957d8f739b716",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "delta.png"
+                "file": "Lecture 2/Lecture.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "delta.png",
+                "file": "Lecture 2/Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "delta.png",
+                "file": "Lecture 2/Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "delta.png"
+                "file": "Lecture 2/Lecture.md"
               }
             }
           },
@@ -152,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af0211b3f4387431",
+  "active": "aff957d8f739b716",
   "lastOpenFiles": [
+    "Lecture 2/images/delta.png",
     "Lecture 2/Lecture.md",
     "Lecture 2/images/m2.png",
     "README.md",
@@ -162,7 +165,6 @@
     "Pasted image 20230118195424.png.md",
     "Lecture 1/images/extending_language.png",
     "Lecture 1/images/extension.png",
-    "Test/Hello World.md",
-    "Pasted image 20230118144426.png.md"
+    "Test/Hello World.md"
   ]
 }

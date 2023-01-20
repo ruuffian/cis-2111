@@ -28,5 +28,5 @@ where $\delta$ is the transition function -
 
 The language of $M_2$: $\{0, 1\}^*1$
 
-This can be verified with [JFLAP](obsidian://open?vault=CIS%202111&file=Lecture%202%2Fm2.jff). So, we can say $L(M_2) = \{w | \text{w ends with a 1}\}$
+This can be verified with [JFLAP](obsidian://open?vault=CIS%202111&file=Lecture%202%2Fm2.jff). So, we can say $L(M_2) = \{w | w \text{ ends with a 1}\}$
 

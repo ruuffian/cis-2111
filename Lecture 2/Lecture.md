@@ -33,3 +33,4 @@ This can be verified with [JFLAP](obsidian://open?vault=CIS%202111&file=Lecture%
 Lets define $M_3$:
 ![Finite Automotan M3](images/m3.png)
 
+$M_3 = (\{q_0, q_1\}, $

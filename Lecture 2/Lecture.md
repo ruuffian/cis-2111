@@ -11,3 +11,5 @@ We want to combine two automota, $M$ and $M'$. To do so, we need to extend the l
 
  This is an example of an automotan that has been combined with the automotan from [last class](obsidian://open?vault=CIS%202111&file=Lecture%201%2FLecture).
 
+Now we define a two-state finite automotan $M_2$.
+

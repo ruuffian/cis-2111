@@ -36,4 +36,7 @@ Lets define $M_3$:
 $M_3 = (\{q_0, q_1\}, \{0,1\}, \delta, q_0, \{q_0\})$ with the transition function $\delta$ defined below-
 ![delta 2](images/delta2.png)
 
-The language of 
+The language of $M_3$ can be described as follows:
+
+$M_3 = \{ w | w \text{ is } \epsilon \text{ or ends with } 0\}$
+

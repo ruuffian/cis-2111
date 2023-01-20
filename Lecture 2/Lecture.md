@@ -23,4 +23,4 @@ where $\delta$ is the transition function -
 ![transition function](images/delta.png)
 
  Let's check some codes to see if they belong in the language of $M_2$:
-1101 - $q_1 \rightarrow q_
+1101 - $q_0 \rightarrow q_1 \rightarrow 

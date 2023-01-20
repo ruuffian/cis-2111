@@ -23,5 +23,7 @@ where $\delta$ is the transition function -
 ![transition function](images/delta.png)
 
  Let's check some codes to see if they belong in the language of $M_2$:
-1101 - $q_0 \rightarrow q_1 \rightarrow q_1 \rightarrow q_0 \rightarrow q_1$ $q_1$ is a terminal/accepting state, so 1101 is accepted.
+1101 - $q_0 \rightarrow q_1 \rightarrow q_1 \rightarrow q_0 \rightarrow q_1 \therefore$ $q_1$ is a terminal/accepting state, so 1101 is accepted.
 110 - $q_0 \rightarrow q_1 \rightarrow q_1 \rightarrow q_0 \therefore$ $q_2$ is not a terminal state, so 110 is NOT accepted.
+
+The language 

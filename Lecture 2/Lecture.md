@@ -40,3 +40,4 @@ The language of $M_3$ can be described as follows:
 
 $M_3 = \{ w | w \text{ is } \epsilon \text{ or ends with } 0\}$
 
+Next week we will look at a more complicated 

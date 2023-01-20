@@ -14,3 +14,5 @@ We want to combine two automota, $M$ and $M'$. To do so, we need to extend the l
 Now we define a two-state finite automotan $M_2$.
 
 ![Finite Automotan M_2](images/m2.png)
+
+We know a few things about this automotan from this image:

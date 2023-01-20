@@ -16,3 +16,4 @@ Now we define a two-state finite automotan $M_2$.
 ![Finite Automotan M_2](images/m2.png)
 
 We know a few things about this automotan from this image:
+$M_2 = (\{q_1, q_2\}, \{0,1\}, \delta, q_1, \{q_2\}

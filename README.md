@@ -1,1 +1,1 @@
-Hey Parth welcome to my notes enjoy lmk if there are typos
+Note that most diagrams of automotans are generated using the open-source tool [JFLAP](https://www.jflap.org)l, with the only requirement being a working java runtime. Besides that, all notes are my own. 

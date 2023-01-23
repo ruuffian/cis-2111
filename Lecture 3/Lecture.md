@@ -60,7 +60,7 @@ Let A and B be languages. Then, we define the regular operations *union*, *conca
 
 Union- $A \cup B = \{ x | x \in A \vee x \in B \}$
 Concatenation- $A \circ B = \{ xy | x \in A \wedge y \in B\}$
-Kleene * Operation- $$A^* = \{ x_1 x_2 \text{...} x_k \text{| k} \geq 0 \wedge \text{ each x_i} \in A\}$$
+Kleene * Operation- $A^* = \{ x_1 x_2 \text{...} x_k \text{| k} \geq 0 \wedge \text{ each x_i} \in A\}$
 Turing Machine - Basic Conjecture
 
 Any computation taking place on a regular computer can be simulated on a turing machine.

@@ -15,7 +15,7 @@ We want to combine two automota, $M$ and $M'$. To do so, we need to extend the l
 
 Now we define a two-state finite automotan $M_2$.
 
-![Finite Automotan M_2](images/m2.png)
+![Finite Automotan M_2](Lecture%202/images/m2.png)
 
 We know a few things about this automotan from this image:
 
@@ -33,7 +33,7 @@ The language of $M_2$: $\{0, 1\}^*1$
 This can be verified with [JFLAP](obsidian://open?vault=CIS%202111&file=Lecture%202%2Fm2.jff). So, we can say $L(M_2) = \{w | w \text{ ends with a 1}\}$
 
 Lets define $M_3$:
-![Finite Automotan M3](images/m3.png)
+![Finite Automotan M3](Lecture%202/images/m3.png)
 
 $M_3 = (\{q_0, q_1\}, \{0,1\}, \delta, q_0, \{q_0\})$ with the transition function $\delta$ defined below-
 ![delta 2](images/delta2.png)

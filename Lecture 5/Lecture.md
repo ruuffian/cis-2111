@@ -29,6 +29,16 @@ Goes to this DFA:
 We recieve this GNFA:
 ![GNFA_1](images/gnfa1.png)
 
-Eliminate state 1 from GNFA:
+#### Eliminate state 1 from GNFA:
+List connected triangles containing state 1: $\{1, s, 2\} \thinspace \{1,s,a\} \thinspace \{1,2,a\}$
+
+
+
+
+
+
+### Recognizing a Regular Language
+
+If a language is regular, then we can describe it with a regular expression. So, it is of interest to be able to detect if a language is regular. Enter, the Pumping Lemma.
 
 

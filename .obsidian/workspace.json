@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b3264b613a618cf6",
+        "id": "c2b0f1a59dc7560b",
         "type": "tabs",
         "children": [
           {
-            "id": "9e69744ca1c4ae59",
+            "id": "94191dc031d7ce67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 2/Lecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e29c7f68999f1419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 4/Lecture.md",
+                "file": "Lecture 5/Lecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 2/Lecture.md",
+                "file": "Lecture 5/Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 2/Lecture.md",
+                "file": "Lecture 5/Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 2/Lecture.md"
+                "file": "Lecture 5/Lecture.md"
               }
             }
           },
@@ -168,7 +155,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af0211b3f4387431",
+  "active": "94191dc031d7ce67",
   "lastOpenFiles": [
     "Lecture 2/Lecture.md",
     "Lecture 3/Lecture.md",

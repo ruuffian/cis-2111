@@ -22,3 +22,13 @@ Goes to this DFA:
 
 ![nf2](images/nfa2.png)
 
+- First, combine multiple edges as unions
+	- a,b becomes $a \cup b$
+- Now, add state s and s as start and accept states, s being start and a being accept states.
+- One edge goes from s to the original start state (in this case $1$) and one edge goes from the original accept state (in this case $1$) to $a$. Both are epsilon moves.
+We recieve this GNFA:
+![GNFA_1](images/gnfa1.png)
+
+Eliminate state 1 from GNFA:
+
+

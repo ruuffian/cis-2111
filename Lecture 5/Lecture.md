@@ -9,3 +9,5 @@ $L(A_2) = \{ w \thinspace | \thinspace w \text{ does not contain ab} \}$ -
 ![A_2](images/no_ab.png)
 
 
+### DFA Equivalent to NFA
+

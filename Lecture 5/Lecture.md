@@ -39,6 +39,6 @@ List connected triangles containing state 1: $\{1, s, 2\} \thinspace \{1,s,a\} \
 
 ### Recognizing a Regular Language
 
-If a language is regular, then we can describe it with a regular expression. So, it is of interest to be able to detect if a language is regular. Enter, the Pumping Lemma.
+If a language is regular, then we can describe it with a regular expression. So, it is of interest to be able to detect if a language is regular. Enter, the [Pumping Lemma](obsidian://open?vault=CIS%203211&file=Lecture%205%2FPumping%20Lemma).
 
 

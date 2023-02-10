@@ -13,12 +13,13 @@ Here is an example of a grammer:
 
 $G_2 = (V, T, S, P)$
 $V = \{A, B\}$ and $T = \{a, b\}$
-with 
+with $P = \{$
+	$S \rightarrow AB$
+	$A \rightarrow aaA\thinspace|\thinspace\epsilon$
+	$B \rightarrow Bb\thinspace|\thinspace\epsilon$
+$\}$
 
-$S \rightarrow AB$
-$A \rightarrow aaA|\epsilon$
-$B \rightarrow Bb|\epsilon$
-
+Let's use this grammar now.
 $S \rightarrow AB \rightarrow aaAB \rightarrow aaA\epsilon \rightarrow aaaaA \rightarrow aaaa\epsilon \rightarrow aaaa$
 $S \overset{*}\rightarrow aaaa$
 $\overset *\rightarrow$ means derivation, as in $aaaa$ is derived from $S$.

@@ -28,7 +28,7 @@ Grammars can be ambiguous, meaning a string may have multiple different derivati
 
 ##### Derivation Trees
 
-We can use ordered trees to show the derivation of a string in an ambiguous language.
+We can use ordered trees to show the derivation of a string in a grammar.
 ![derivation tree](tree1.png)
 
 If we wanted to get the steps of the derivation, we can number each node with parent > child like so:
@@ -36,3 +36,6 @@ If we wanted to get the steps of the derivation, we can number each node with pa
 
 $S \overset 1 \rightarrow AB \overset 2 \rightarrow ABb \overset 3 \rightarrow aaABb \overset 4 \rightarrow aaAb \overset 5 \rightarrow aaB \overset 6 \rightarrow aab$
 
+In ambiguous (bad) grammars, we can have multiple derivations, thus multiple derivation trees. THere is an example in the notes.
+
+Leftmost derivation can be visualized as a preorder tree traversal, and a rightmost derivation corresponds to a postorder traversal.

@@ -24,3 +24,4 @@ $S \rightarrow AB \rightarrow aaAB \rightarrow aaA\epsilon \rightarrow aaaaA \ri
 $S \overset{*}\rightarrow aaaa$
 $\overset *\rightarrow$ means derivation, as in $aaaa$ is derived from $S$.
 
+Grammars can be ambiguous, meaning a string may have multiple different derivations. 

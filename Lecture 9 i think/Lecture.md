@@ -59,6 +59,8 @@ Read symbols from input tape
 If a 0 is read, push a 0 onto the stack
 If a 1 is read, pop a 1 off the stack
 If the stack is empty at the end, accept the input
+If the stack is non-empty OR you attempt to pop an empty stack, reject the input
 ```
 
 DPDA and NPDA do not equate, unlike DFA and NFA.
+

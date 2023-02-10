@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ddd5a699adfb18f7",
+        "id": "ef8bff9ea288147e",
         "type": "tabs",
         "children": [
           {
-            "id": "0878b96e78b79645",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 5/Lecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ae808a5ab3660c3",
+            "id": "80443a3ba4ed529f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,17 +155,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ae808a5ab3660c3",
+  "active": "80443a3ba4ed529f",
   "lastOpenFiles": [
+    "images/tree1.png.md",
+    "Lecture 9 i think/Lecture.md",
+    "Lecture 9 i think/images/tree1.png",
     "Lecture 5/Lecture.md",
     "Lecture 5/Pumping Lemma.md",
     "Homework/Homework_1___CIS_3211.pdf",
     "Lecture 2/Lecture.md",
     "Lecture 3/Lecture.md",
     "images/'description.md",
-    "Lecture 3/images/m2.png",
-    "Lecture 2/images/m2.png",
-    "README.md",
-    "Lecture 2/images/extended.png"
+    "Lecture 3/images/m2.png"
   ]
 }

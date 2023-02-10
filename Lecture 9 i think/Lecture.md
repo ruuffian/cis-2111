@@ -39,3 +39,26 @@ $S \overset 1 \rightarrow AB \overset 2 \rightarrow ABb \overset 3 \rightarrow a
 In ambiguous (bad) grammars, we can have multiple derivations, thus multiple derivation trees. THere is an example in the notes.
 
 Leftmost derivation can be visualized as a preorder tree traversal, and a rightmost derivation corresponds to a postorder traversal.
+
+A context-free grammar is in *Chomsky-normal form* if every rule is of the form:
+$A \rightarrow BC$
+$A \rightarrow a$
+
+Where $a$ is any terminal, and $A, B, C$ are any variables, except that $B$ and $C$ may not be the start variable. Additionally, we permit the rule $S \rightarrow \epsilon$.
+
+This is an important result, but we will not use it.
+
+### Pushdown Automota (PDA)
+
+A *pushdown automota* is similar to a NFA, but it include an extra piece- namely, a stack. A PDA can read and write symbols from a stack. Reading is destructive (popping) and writing is constructive (pushing). This extra piece of memory allows PDA to recognize some non-regular languages. Now, we consider a semi-infinite input tape to read symbols from- see below.
+![PDA](images/pda_schematic.png)
+
+A PDA can recognize the non-regular lanugauage $\{0^n1^n\}$. Here is the procedure
+```
+Read symbols from input tape
+If a 0 is read, push a 0 onto the stack
+If a 1 is read, pop a 1 off the stack
+If the stack is empty at the end, accept the input
+```
+
+DPDA and NPDA do not equate, unlike DFA and NFA.

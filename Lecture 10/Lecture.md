@@ -40,3 +40,4 @@ $\delta$ can be described in two ways:
 
 Note that blank column entries signify $\emptyset$.   
 
+**NOTE**: NPDA are not equivalent to PDA in the same fashion that NFA are equivalent to some DFA. 

@@ -5,11 +5,11 @@ February 10th, 2023
 A grammar consists of a colelction of substitution rules, also called productions. Each rule appears as a line in the grammar, comprising a symbol and a string separated by an arrow. The symobl is called a *variable* and the string is a collection of *terminals*. 
 Here is an example of a grammer:
 
-![Grammar](images/grammar.png)
+![Grammar](grammar.png)
 
 ##### Formal Definition of a Grammar
 
-![grammar def](images/def.png)
+![grammar def](def.png)
 
 $G_2 = (V, T, S, P)$
 $V = \{A, B\}$ and $T = \{a, b\}$
@@ -32,7 +32,7 @@ We can use ordered trees to show the derivation of a string in a grammar.
 ![derivation tree](tree1.png)
 
 If we wanted to get the steps of the derivation, we can number each node with parent > child like so:
-![numbered tree](images/numbered_tree.png)
+![numbered tree](numbered_tree.png)
 
 $S \overset 1 \rightarrow AB \overset 2 \rightarrow ABb \overset 3 \rightarrow aaABb \overset 4 \rightarrow aaAb \overset 5 \rightarrow aaB \overset 6 \rightarrow aab$
 
@@ -51,7 +51,7 @@ This is an important result, but we will not use it.
 ### Pushdown Automota (PDA)
 
 A *pushdown automota* is similar to a NFA, but it include an extra piece- namely, a stack. A PDA can read and write symbols from a stack. Reading is destructive (popping) and writing is constructive (pushing). This extra piece of memory allows PDA to recognize some non-regular languages. Now, we consider a semi-infinite input tape to read symbols from- see below.
-![PDA](images/pda_schematic.png)
+![PDA](pda_schematic.png)
 
 A PDA can recognize the non-regular lanugauage $\{0^n1^n\}$. Here is the procedure
 ```

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 9 i think/Lecture.md",
+                "file": "Lecture 9/Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "558f276b38b67de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 10/Lecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 9 i think/Lecture.md",
+                "file": "Lecture 10/Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 9 i think/Lecture.md",
+                "file": "Lecture 10/Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 9 i think/Lecture.md"
+                "file": "Lecture 10/Lecture.md"
               }
             }
           },
@@ -155,12 +168,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80443a3ba4ed529f",
+  "active": "558f276b38b67de3",
   "lastOpenFiles": [
-    "images/tree1.png.md",
-    "Lecture 9 i think/Lecture.md",
-    "Lecture 9 i think/images/tree1.png",
+    "Lecture 9/Lecture.md",
     "Lecture 5/Lecture.md",
+    "images/tree1.png.md",
+    "Lecture 9/images/tree1.png",
     "Lecture 5/Pumping Lemma.md",
     "Homework/Homework_1___CIS_3211.pdf",
     "Lecture 2/Lecture.md",

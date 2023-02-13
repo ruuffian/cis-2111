@@ -36,7 +36,7 @@ Lets define $M_3$:
 ![Finite Automotan M3](Lecture%202/images/m3.png)
 
 $M_3 = (\{q_0, q_1\}, \{0,1\}, \delta, q_0, \{q_0\})$ with the transition function $\delta$ defined below-
-![delta 2](images/delta2.png)
+![delta 2](Lecture%202/images/delta2.png)
 
 The language of $M_3$ can be described as follows:
 

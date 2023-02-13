@@ -26,3 +26,17 @@ First, note that $\epsilon$ is in $L$, so $q_1$ must be an accept state. Then, w
 $000111 \overset{start}{\rightarrow} q_1 \overset{\text{push \$ onto stack}}{\rightarrow} q_2 \overset{\text{push 3 0s onto the stack}}{\rightarrow} q_2 \times 3 \overset{\text{pop 3 0s off the stack}}{\rightarrow} q_3 \times 3 \rightarrow q_4$
 This string is accepted.
 
+Here is a formal description of $M$:
+$M = \left ( Q, \sum, \Gamma, \delta, q_1, \$, F \right)$ with
+$$
+Q = \{q_1, q_2, q_3, q_4\} \\
+\sum = \{0, 1\} \\
+\Gamma = \{0, \$\} \\
+F = \{q_1, q_4\} \\
+$$
+$\delta$ can be described in two ways:
+![delta first way](images/delta1.png)
+![delta 2 way](images/delta2.png)
+
+Note that blank column entries signify $\emptyset$.   
+

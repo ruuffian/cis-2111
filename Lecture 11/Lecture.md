@@ -22,3 +22,4 @@ M:
 ![example](images/pda_a2b.png)
 
 Note that $q_0$ is an accept state because $\epsilon = a^0b^{2*0}$ is an acceptable string.
+

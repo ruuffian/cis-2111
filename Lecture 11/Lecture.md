@@ -23,3 +23,6 @@ M:
 
 Note that $q_0$ is an accept state because $\epsilon = a^0b^{2*0}$ is an acceptable string.
 
+Multiple character input allows us to simplify this automota to only 4 states:
+![example](images/pda_multi_in.png)
+

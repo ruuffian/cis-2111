@@ -26,3 +26,6 @@ Note that $q_0$ is an accept state because $\epsilon = a^0b^{2*0}$ is an accepta
 Multiple character input allows us to simplify this automota to only 4 states:
 ![example](images/pda_multi_in.png)
 
+A final example of a PDA recognizing the following language:
+$L(M) = \{a^ib^jc^k | i,j,k \geq 0 \land i=j \lor i=k\}$ 
+

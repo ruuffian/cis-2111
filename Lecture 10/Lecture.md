@@ -28,12 +28,11 @@ This string is accepted.
 
 Here is a formal description of $M$:
 $M = \left ( Q, \sum, \Gamma, \delta, q_1, \$, F \right)$ with
-$$
-Q = \{q_1, q_2, q_3, q_4\} \\
-\sum = \{0, 1\} \\
-\Gamma = \{0, \$\} \\
-F = \{q_1, q_4\} \\
-$$
+$Q = \{q_1, q_2, q_3, q_4\}$
+$\sum = \{0, 1\}$
+$\Gamma = \{0, \$\}$
+$F = \{q_1, q_4\}$
+
 $\delta$ can be described in two ways:
 ![delta first way](images/delta1.png)
 ![delta 2 way](images/delta2.png)

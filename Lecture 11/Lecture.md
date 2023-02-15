@@ -19,4 +19,6 @@ Now here is an example of building a PDA from a non-regular language:
 $L(M) = \{a^nb^{2n} | n \geq 2\}$
 M:
 
-![[Pasted image 20230215143213.png]]
+![example](images/pda_a2b.png)
+
+Note that $q_0$ is an accept state because $\epsilon = a^0b^{2*0}$ is an acceptable string.

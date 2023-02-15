@@ -15,7 +15,7 @@ Start with NFA $N_4$:
 ![N_4](images/n4.png)
 
 Goes to this DFA:
-![DFA](images/dfa.png)
+![DFA](Lecture%205/images/dfa.png)
 
 
 ### Going from NFA to GNFA to find a regular expression

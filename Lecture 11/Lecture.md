@@ -19,3 +19,4 @@ Now here is an example of building a PDA from a non-regular language:
 $L(M) = \{a^nb^{2n} | n \geq 2\}$
 M:
 
+![[Pasted image 20230215143213.png]]

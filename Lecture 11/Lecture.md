@@ -29,3 +29,11 @@ Multiple character input allows us to simplify this automota to only 4 states:
 A final example of a PDA recognizing the following language:
 $L(M) = \{a^ib^jc^k | i,j,k \geq 0 \land i=j \lor i=k\}$ 
 
+![examples](images/npda.png)
+
+This is an example of a non-deterministic pushdown automota. The multiple $\epsilon$ moves make this non-deterministic.
+
+Some Notes:
+
+Every regular language is context-free, as they do not have a stack.
+A language is context free if and only if a pushdown automota recognizes it.

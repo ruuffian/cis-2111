@@ -33,3 +33,7 @@ Here is the proof for why $a^nb^nc^n$ is not context-free:
 ### Deterministic Pushdown Automota
 
 A DPDA is a PDA with exactly 1 transition per input symbol at any given state. An example would be the automota that recognizes the language $0^n1^n$. An example of an non-deterministic PDA is the automota that recognizes the language $\{L = a^ib^jc^k \thinspace | \thinspace i=j \lor i = k\}$.
+
+A use case of DPDA is determining if a language has an ambiguous grammar or not.
+
+If $L = L(P)$ where $P$ is some DPDA, then L is an unambiguous grammar.

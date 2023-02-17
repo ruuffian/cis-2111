@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba4eb0a53c7d74b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 12/Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 11/Lecture.md",
+                "file": "Lecture 12/Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 11/Lecture.md",
+                "file": "Lecture 12/Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 11/Lecture.md"
+                "file": "Lecture 12/Lecture.md"
               }
             }
           },
@@ -155,10 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d92349ac03a5ebca",
+  "active": "ba4eb0a53c7d74b3",
   "lastOpenFiles": [
-    "Lecture 10/Lecture.md",
     "Lecture 11/Lecture.md",
+    "Lecture 10/Lecture.md",
     "Lecture 11/images/pda_a2b.png",
     "images/PDA.md",
     "Lecture 10/images/PDA.png",

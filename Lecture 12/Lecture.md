@@ -27,3 +27,6 @@ $0^n$ is a regular language, $0^n1^n$ is not regular but it is context-free. How
 
 $a^nb^nc^n$ is called turing, or rather can be modeled on a Turing Machine. 
 
+Here is the proof for why $a^nb^nc^n$ is not context-free:
+![examples](images/cfl_proof.png)
+

@@ -30,3 +30,6 @@ $a^nb^nc^n$ is called turing, or rather can be modeled on a Turing Machine.
 Here is the proof for why $a^nb^nc^n$ is not context-free:
 ![examples](images/cfl_proof.png)
 
+### Deterministic Pushdown Automota
+
+A DPDA is a PDA with exactly 1 transition per input symbol at any given state. An example would be the automota that recognizes the language $0^n1^n$. An example of an non-deterministic PDA is the automota that recognizes the language $\{L = a^ib^jc^k \thinspace | \thinspace i=j \lor i = k\}$.

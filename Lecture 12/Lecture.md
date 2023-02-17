@@ -23,3 +23,7 @@ If $A$ is a  context-free language, then there is a number $p$ (the pumping leng
 
 ![examples](images/pumping_lemma.png)
 
+$0^n$ is a regular language, $0^n1^n$ is not regular but it is context-free. However, $a^nb^nc^n$ is neither regular nor context free. So what is it?
+
+$a^nb^nc^n$ is called turing, or rather can be modeled on a Turing Machine. 
+

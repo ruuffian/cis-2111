@@ -4,7 +4,7 @@ Starting with a NFA -> DFA example.
 
 ![example](Lecture%2011/images/nfa.png)
 
-![example](images/dfa.png)
+![example](Lecture%2011/images/dfa.png)
 
 The process for doing this as follows: 
 

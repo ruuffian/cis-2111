@@ -24,3 +24,4 @@ Clearly, we can read this as "An even number of a's followed by any number of b'
 
 How can we represent this CFG as a PDA?
 
+** IMPORTANT **: How do we read the state transition $x, x, \rightarrow \epsilon$? $x$ is a variable- what we are checking is if the current character matches the stacl, pop the top member of th estop. Otherwise, 

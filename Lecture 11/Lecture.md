@@ -2,7 +2,7 @@ February 15th, 2023
 
 Starting with a NFA -> DFA example.
 
-![example](images/nfa.png)
+![example](Lecture%2011/images/nfa.png)
 
 ![example](images/dfa.png)
 

@@ -11,3 +11,6 @@ Here is an $O(n^2)$ Alogorithm for reducing a DFA to its minimal form:
 First, partition your states:
 	Non-Final States => $A = \{0, 5, 6\}$
 	Final States => $F = \{1,2,3,4\}$
+Now take a pair of indistinguishible states: For example $(0, 5)$
+$\delta((0,5), 0) = (1, 6)$ and $\delta((0,5), 1) = (2, 5)$. $(1,6)$ and $(0,5)$ are distinguishible, so these states cannot be combined.
+$(1,3)$ => $\{(3,3), (4,4)\}$ 

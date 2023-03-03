@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 16/Lecture.md",
+                "file": "Lecture 5/Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8e2ee498e13c563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 17/Lecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 16/Lecture.md",
+                "file": "Lecture 17/Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 16/Lecture.md",
+                "file": "Lecture 17/Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 16/Lecture.md"
+                "file": "Lecture 17/Lecture.md"
               }
             }
           },
@@ -155,15 +168,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22427f34ffd6a0b7",
+  "active": "e8e2ee498e13c563",
   "lastOpenFiles": [
-    "Lecture 15/Lecture.md",
+    "Lecture 5/Lecture.md",
+    "Lecture 17/Lecture.md",
+    "Lecture 17",
+    "Lecture 13/Lecture.md",
     "Lecture 16/Lecture.md",
+    "Lecture 15/Lecture.md",
     "Lecture 16",
     "Lecture 15/images",
     "Lecture 14/Lecture.md",
     "Lecture 15",
-    "Lecture 13/Lecture.md",
     "Lecture 11/Lecture.md",
     "Lecture 12/Lecture.md",
     "Lecture 13/images/dfa.png",

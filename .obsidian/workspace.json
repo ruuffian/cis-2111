@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e21ecab50e03779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lecture 18/Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 5/Lecture.md",
+                "file": "Lecture 18/Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 5/Lecture.md",
+                "file": "Lecture 18/Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 5/Lecture.md"
+                "file": "Lecture 18/Lecture.md"
               }
             }
           },
@@ -155,11 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "22427f34ffd6a0b7",
+  "active": "6e21ecab50e03779",
   "lastOpenFiles": [
     "Pasted image 20230222141556.png",
-    "Lecture 17/Lecture.md",
+    "Lecture 18/Lecture.md",
+    "Lecture 18/images",
     "Lecture 5/Lecture.md",
+    "Lecture 18",
+    "Lecture 17/Lecture.md",
     "Lecture 17",
     "Lecture 13/Lecture.md",
     "Lecture 16/Lecture.md",

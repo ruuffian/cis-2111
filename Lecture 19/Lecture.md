@@ -6,4 +6,5 @@ OMG NEW CONTENT LETS GOOOOOOOOOO
 
 ### Turing Machines
 
-Has a head that can read or write from/on an infinite tape. The most basic form of a computer. This is a massive 
+Has a head that can read or write from/on an infinite tape. The most basic form of a computer. This is a massive upgrade over PDAs- it lets us use multiple stacks at a time, rather than 1 stack.
+

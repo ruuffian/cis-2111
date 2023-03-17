@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b30db37ad8aec6d2",
+        "id": "24d75394283dafb4",
         "type": "tabs",
         "children": [
           {
-            "id": "22427f34ffd6a0b7",
+            "id": "7a0f65436a83afcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 5/Lecture.md",
+                "file": "Lecture 18/Lecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e21ecab50e03779",
+            "id": "a6ee28cd979221d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 18/Lecture.md",
+                "file": "Lecture 19/Lecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 18/Lecture.md",
+                "file": "Lecture 19/Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 18/Lecture.md",
+                "file": "Lecture 19/Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 18/Lecture.md"
+                "file": "Lecture 19/Lecture.md"
               }
             }
           },
@@ -168,21 +168,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e21ecab50e03779",
+  "active": "a6ee28cd979221d3",
   "lastOpenFiles": [
-    "Pasted image 20230222141556.png",
     "Lecture 18/Lecture.md",
-    "Lecture 18/images",
-    "Lecture 5/Lecture.md",
-    "Lecture 18",
+    "Lecture 19/Lecture.md",
+    "Lecture 19",
     "Lecture 17/Lecture.md",
-    "Lecture 17",
-    "Lecture 13/Lecture.md",
     "Lecture 16/Lecture.md",
     "Lecture 15/Lecture.md",
+    "Lecture 5/Lecture.md",
+    "Lecture 14/Lecture.md",
+    "Pasted image 20230222141556.png",
+    "Lecture 18/images",
+    "Lecture 18",
+    "Lecture 17",
+    "Lecture 13/Lecture.md",
     "Lecture 16",
     "Lecture 15/images",
-    "Lecture 14/Lecture.md",
     "Lecture 15",
     "Lecture 11/Lecture.md",
     "Lecture 12/Lecture.md",

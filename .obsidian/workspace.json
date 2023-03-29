@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "24d75394283dafb4",
+        "id": "ac8554c89ae9cefc",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0f65436a83afcb",
+            "id": "8d340662499b92df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 18/Lecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6ee28cd979221d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 19/Lecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea85f6634ff62d83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 20/Lecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c024f22e830e9f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture 21/Lecture.md",
+                "file": "Lecture 23/Lecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 21/Lecture.md",
+                "file": "Lecture 23/Lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture 21/Lecture.md",
+                "file": "Lecture 23/Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture 21/Lecture.md"
+                "file": "Lecture 23/Lecture.md"
               }
             }
           },
@@ -192,10 +155,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c024f22e830e9f8",
+  "active": "8d340662499b92df",
   "lastOpenFiles": [
-    "Lecture 20/Lecture.md",
+    "Lecture 23/Lecture.md",
+    "Lecture 23/images",
+    "Lecture 23",
     "Lecture 21/Lecture.md",
+    "Lecture 20/Lecture.md",
     "Lecture 21",
     "Lecture 19/Lecture.md",
     "Lecture 20",
@@ -213,7 +179,6 @@
     "Lecture 13/Lecture.md",
     "Lecture 16",
     "Lecture 15/images",
-    "Lecture 15",
     "Lecture 11/Lecture.md",
     "Lecture 12/Lecture.md",
     "Lecture 13/images/dfa.png",
@@ -221,7 +186,6 @@
     "Lecture 11/images/pda_a2b.png",
     "images/PDA.md",
     "Lecture 10/images/PDA.png",
-    "Michael Sipser - Introduction to the Theory of Computation-Thomson South-Western (2012).pdf",
     "Lecture 9/Lecture.md"
   ]
 }
